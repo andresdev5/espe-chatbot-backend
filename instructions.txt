@@ -1,0 +1,260 @@
+Lista de preguntas y respuestas como asistente, "P" es la pregunta, "R" es la respuesta.
+
+P:¿Dónde puedo encontrar el departamento de computación?
+R:Se encunetra en el bloque H en la planta baja
+P:¿Cómo puedo inscribirme en mis clases?
+R:Debes esperar a horario de las matriculas, e incribirte en linea seleccionando los NRCs de las materias correspondientes a tu semestre
+P:¿Cuál es el horario de atención de la biblioteca?
+R:De 7am a 6pm de lunes a vienes
+P:¿Dónde están ubicadas las cafeterías en el campus?
+R:Afrente del Edificio Central, en el camino principal de la Univesidad
+P:¿Hay algún club o sociedad estudiantil de informática al que pueda unirme?
+R:El club de software, el cual participan en el desarrollo de proyectos para la universidad
+P:¿Cómo accedo al Wi-Fi del campus?
+R:Debes concectarte a la red ESPE y entrar con tu usuario proporcionado por la espe
+P:¿Cuál es el proceso para obtener una tarjeta de estudiante?
+R:Solicitarla en Admicion y registro en el edificio principal en la planta baja, por un valor de $10
+P:¿Dónde puedo encontrar ayuda si tengo problemas técnicos con mi computadora?
+R:Puedes solicitar ayuda en las utic en el edificio principal
+P:¿Qué servicios ofrece el centro de salud del campus?
+R:Servicio de enfermeria
+P:¿Cómo puedo acceder a las instalaciones deportivas del campus?
+R:Las instalciones son libres, en caso de solicitar un balon se debe pedir en el coliseo con la cedula o el carnet estudiantil
+P:¿Cuál es el procedimiento para obtener un correo electrónico institucional?
+R:El correo intucional se le otorga a cualquien miembro de la universidad
+P:¿Cómo puedo acceder a los recursos en línea de la biblioteca?
+R:Ingresar a miespe con las credenciales e ir a la pesataña estudiente y al final esta la biblioteca virtual
+P:¿Cuál es el procedimiento para solicitar una beca o ayuda financiera?
+R:Se debe esperar que el estudienate pertenezca al un cuartil especifico de estudientes dependiendo de las notas
+P:¿Dónde puedo encontrar información sobre actividades extracurriculares?
+R:En Utic en el edificio principal
+P:¿Cómo puedo reservar una sala de estudio en el campus?
+R:Ir a la biblioteca y pedir en recepcion
+P:¿Cuál es el proceso para obtener un pase de estacionamiento?
+R:Ir al edifico H e ir al 2do piso
+P:¿Hay servicios de transporte disponibles para los estudiantes?
+R: existen recoridos independientes de la espe, los cuales estan disponibles al inicio de cada semestre
+P:¿Cuál es el horario de los autobuses que van desde y hacia el campus?
+R:Los autobuses estan desde las 6am hasta las 9pm 
+P:¿Cómo puedo obtener una copia de mi transcripción académica?
+R: Ir a misespe, en la pestaña estuiente, en la opcion espematico podras descargar una copia de tu incripcion o matricula
+P:¿Cuál es el procedimiento para cambiar de especialización o carrera?
+R:Se debe hablar con los directores de carreta correspondientes y solicitar el cambio
+P:¿Dónde puedo obtener ayuda para planificar mi horario de clases?
+R:Cada estudiente lo organiza dependiendo de sus necesidades
+P:¿Hay algún servicio de tutoría disponible para los estudiantes?
+R:Las tutorias las imparten cada tutor de cada materia, la cual debe ser acordada en un horario fuera de las clases que se imparten
+P:¿Qué opciones de comida saludable hay en el campus?
+R:Las oopciones saludables son jugos naturales, y ensaladas de frutas.
+P:¿Cómo puedo obtener acceso a laboratorios de computación fuera del horario regular?
+R:Se debe solicitar dicho permiso a las laboratoristas de cada seccion de laboratorios
+P:¿Dónde puedo imprimir documentos en el campus?
+R:Existe un centro de computo con impresoras y utiles cerca del bar, debajo del salon 2000
+P:¿Cómo puedo participar en proyectos de investigación como estudiante de pregrado?
+R:Debe solicitar a cualquier tutor, que tenga pendientes proyectos.
+P:¿Cómo puedo obtener una copia de mi horario de clases?
+R:Ir a miespe, a la pestaña Estudiante y en opcion horario, imprimir una copia
+P:¿Qué opciones de alojamiento fuera del campus recomiendan los estudiantes?
+R:La Universidad de las fuerzas armadas espe no recomineda, alojamientos ajenos a las universidad
+P:¿Cuál es el proceso para obtener una tarjeta de acceso al gimnasio?
+R:se debe llevar alcohol, una toalla y ropa adecuada
+P:¿Cuál es la política de la universidad sobre el uso de dispositivos electrónicos durante las clases?
+R:La univesidad no tiene politicas como tal, sin embargo el respeto hacia el tutor es crusial, para tener un ambiente de 
+P:¿Cómo puedo obtener acceso a software especializado necesario para mis cursos?
+R:Cada tutor recomendara los productos software, que se requeriran para el curso
+P:¿Dónde puedo encontrar información sobre actividades culturales y eventos en el campus?
+R:Existen grupos de estudientes con dicha informacion, en las carteleras de los edificios, o por anucion del tutor o docente.
+P:¿Qué servicios de salud mental están disponibles para los estudiantes?
+R:La intitucion posee una, psicologo, el cual se debe solicitar el horario en el area de la informacion
+P:¿Cuál es el procedimiento para reportar incidentes de acoso o discriminación?
+R: Se pude ir a hablar con el director de carrea
+P:¿Hay algún centro de impresión o fotocopias en el campus?
+R: Si, Cerca del bar, debajo del salon 2000
+P:¿Cómo puedo obtener acceso a libros de texto y materiales de estudio a bajo costo?
+R:Es posible que dicho material lo pudes encontrar en la biblioteca, o cerca de los estableciemientos de la espe
+P:¿Cuál es el horario de los servicios de transporte nocturno en el campus?
+R:Esa consulta debe ir directamente a los encargados del trasnporte, ya que son independientes a la institucion
+P:¿Hay alguna política de reembolso para clases canceladas o modificadas?
+R: Se puede anular la matricula, sin embargo se pude perder la gratuidad
+P:¿Cuál es el proceso para obtener un certificado de asistencia a un evento extracurricular?
+R:Se debe hablar con el director de carrera para dicho certificado
+P:¿Dónde puedo encontrar información sobre prácticas profesionales o pasantías relacionadas con mi campo de estudio?
+R: Se debe solicitar informacion a los tutores y docentes para solicitar las prácticas profesionales o pasantías
+P:¿Dónde puedo encontrar información sobre oportunidades de voluntariado en la comunidad local?
+R: Las vinvulaciones se debe entra con la ayuda de algun mienbro saliente de los proyectos para reemplazar a dicho miembro.
+P:¿Cuál es el procedimiento para obtener una identificación estudiantil?
+R:Solicitar el carnet estudientil en Utics, en el edificio principal
+P:¿Dónde puedo encontrar información sobre eventos deportivos universitarios?
+R:Los tutotres mismo informaran, y determinar 
+P:¿Cómo puedo obtener acceso a recursos de aprendizaje en línea adicionales?
+R:En miespe, la pestaña estudiante, en biblioteca en linea
+P:¿Qué medidas de seguridad existen en las instalaciones de la universidad durante la noche?
+R:Estiste la guardia, un sistema de camaras de seguridad asi como el uso de tarejas especializadas para los laboratorios
+P:¿Hay algún servicio de almacenamiento de pertenencias para estudiantes durante las vacaciones?
+R:Se le solicita al estudiente no dejar cosas personales en los laboratorios o las recidencias durante las vacaciones
+P:¿Cuál es el horario de los servicios de tutoría en línea?
+R:Para la modalidad en linea, existen dichas tutorias, las cuales se deben acordar con el tutor de cada materia
+P:¿Hay algún servicio de guardería disponible para estudiantes con hijos?
+R:Las instalciones, no tiene servicio de guarderia
+P:¿Cómo puedo obtener acceso a recursos de desarrollo profesional, como talleres y conferencias?
+R: Estos recursos son informados a los docentes, y dependiendo de la disposicion se les informara a los estudientes
+P:¿Cuál es el procedimiento para solicitar un préstamo estudiantil?
+R:La informacion se la obtiene en el area de finanzas
+P:¿Cómo puedo obtener una copia de mi expediente académico?
+R: Ir a misespe, en la pestaña estuiente, en la opcion espematico podras descargar una copia de tu expediente
+P:¿Cuál es el procedimiento para solicitar una extensión en una tarea o proyecto?
+R:Se debe solicitar dirctamente al docente
+P:¿Dónde puedo encontrar información sobre oportunidades de financiamiento para proyectos estudiantiles?
+R:Se debe pedir una solictud al la directora del departamento
+P:¿Hay algún servicio de transporte para estudiantes que viven fuera del campus durante el fin de semana?
+R:La intitucion no posee este tipo de servicio
+P:¿Cuál es el proceso para solicitar un cambio de asesor académico?
+R:Realizar un peticion al director de carrera
+P:¿Dónde puedo encontrar información sobre conferencias y simposios académicos que se celebran en el campus?
+R:Son informadas a los docentes, y posteriormente a los estudiantes
+P:¿Cuál es el horario de los servicios de asesoramiento psicológico para estudiantes?
+R:De 8am a 4pm
+P:¿Hay algún servicio de apoyo para estudiantes que necesiten ayuda con la escritura académica?
+R:Existe un grupo el cual se encargada de la redaccion academica
+P:¿Cómo puedo obtener acceso a recursos de aprendizaje de idiomas extranjeros?
+R:Durante el perioda academico se abren el curso de idiomas
+P:¿Dónde puedo encontrar información sobre oportunidades de voluntariado en proyectos de investigación con profesores?
+R:Se debe solictar informcaion con los mismo profesores
+P:¿Hay algún servicio de transporte para estudiantes que necesiten asistir a pasantías fuera del campus?
+R:La universidad no cuenta con ese servicio
+P:¿Cuál es el proceso para obtener una licencia de estacionamiento para bicicletas en el campus?
+R:En el mismo parquedero de la espe se puede solicitar
+P:¿Dónde puedo encontrar información sobre actividades de networking y ferias de empleo?
+R:Al correo inticucional se envia dicha informacion
+P:¿Hay algún programa de tutoría entre pares para estudiantes de primer año?
+R:La universidad no cuenta con ese servicio
+P:¿Dónde puedo encontrar información sobre oportunidades de financiamiento para viajes de investigación?
+R:La universidad se presta siempre y cuando se lo informe al director del departamento
+P:¿Cuál es el procedimiento para solicitar un cambio de carrera o especialización después del primer año?
+R:Se debe Solicitar al director de la carrera actual y posterior, para dicho cambio
+P:¿Cómo puedo obtener acceso a servicios de impresión en 3D en el campus?
+R:La universidad no cuenta con ese servicio
+P:¿Hay algún servicio de almacenamiento seguro para artículos de valor en el campus, como laptops o dispositivos electrónicos?
+R:La universidad no cuenta con ese servicio
+R:¿Cuál es el proceso para obtener una tarjeta de acceso a las instalaciones deportivas?
+R:Nose necesita acceso a para las instalacione
+P:¿Dónde puedo encontrar información sobre oportunidades de empleo a tiempo parcial en el campus?
+R:No poseo dicha informacion
+P:¿Hay algún servicio de transporte para estudiantes que necesiten ir al centro de la ciudad?
+R:La univeridad no presta dicho servicio
+P:¿Cuál es el procedimiento para solicitar una prórroga en el pago de la matrícula?
+R:Se debe pedir autorizacion al director de la carrera
+P:¿Dónde puedo encontrar información sobre actividades culturales y clubes relacionados con mi país de origen?
+R:La univeridad no presta dicho servicio
+P:¿Cómo puedo obtener acceso a recursos de aprendizaje específicos para mi área de estudio, como software de diseño o equipos especializados?
+R:La univeridad no presta dicho servicio
+P:¿Hay algún servicio de asistencia técnica para estudiantes que necesiten ayuda con sus dispositivos electrónicos?
+R: Se debe pedir asistencia en utic en el edificio principal
+P:¿Cuál es el proceso para solicitar un permiso para organizar un evento en el campus?
+R:Se debe solicitar permiso al director del departmaneto
+P:¿Dónde puedo encontrar información sobre oportunidades de voluntariado en proyectos de servicio comunitario?
+R: De boca de los estudiantes
+P:¿Cómo puedo obtener acceso a recursos de investigación académica, como bases de datos y revistas especializadas?
+R: En misespe, en la pestaña inicio, se encuentran dichas bases de datos con articulos de estudiantes anteriores
+P:¿Cuál es el procedimiento para solicitar una beca académica basada en el rendimiento académico?
+R:Debe ser seleccionado 
+P:¿Hay algún servicio de cuidado de mascotas para estudiantes que viven en residencias estudiantiles?
+R:La univeridad no presta dicho servicio
+P:¿Dónde puedo encontrar información sobre talleres y seminarios sobre habilidades de estudio y gestión del tiempo?
+R:La univeridad no presta dicho servicio
+P:¿Cuál es el proceso para solicitar una carta de recomendación de un profesor?
+R:Al mismo docente
+P:¿Cómo puedo obtener acceso a servicios de asesoramiento financiero para estudiantes?
+R:La univeridad no presta dicho servicio
+P:¿Hay algún servicio de préstamo de libros de texto en la biblioteca?
+R:Con el carnet estudientil
+P:¿Dónde puedo encontrar información sobre oportunidades de participación en proyectos de investigación dirigidos por estudiantes?
+R:Se debe buscar a los mismos estudiantes, o al director de la viculaciones o trabajo social.
+P: En caso de que pregunten donde se encuentra el departamento de computación
+R: indicar que se encuentra en el edificio de postgrados planta baja
+P: donde se encuentra el aula A101 a la A112
+R: indicar que se encuentra en el edificio Central Bloque A planta P1 
+P: donde se encuentra el aula A201 a la A212
+R: indicar que se encuentra en el edificio Central Bloque A planta P2
+P: donde se encuentra el aula A301 a la A312
+R: indicar que se encuentra en el edificio Central Bloque A planta P3
+P: donde se encuentra el aula A401 a la A412
+R: indicar que se encuentra en el edificio Central Bloque A planta P4
+P: donde se encuentra el aula B101 a la B112
+R: indicar que se encuentra en el edificio Central Bloque B planta P1
+P: donde se encuentra el aula B201 a la B212
+R: indicar que se encuentra en el edificio Central Bloque B planta P2
+P: donde se encuentra el aula B301 a la B312
+R: indicar que se encuentra en el edificio Central Bloque B planta P3
+P: donde se encuentra el aula B401 a la B412
+R: indicar que se encuentra en el edificio Central Bloque B planta P4
+P: donde se encuentra el aula C101 a la C112
+R: indicar que se encuentra en el edificio de postgrados Bloque C planta P1
+P: donde se encuentra el aula C201 a la C212
+R: indicar que se encuentra en el edificio de postgrados Bloque C planta P2
+P: donde se encuentra el aula C301 a la C312
+R: indicar que se encuentra en el edificio de postgrados Bloque C planta P3
+P: donde se encuentra el aula D101 a la D112
+R: indicar que se encuentra en el edificio de postgrados Bloque D planta P1
+P: donde se encuentra el aula D201 a la D212
+R: indicar que se encuentra en el edificio de postgrados Bloque D planta P2
+P: donde se encuentra el aula D301 a la D312
+R: indicar que se encuentra en el edificio de postgrados Bloque D planta P3
+P: donde se encuentra el aula H201 a la H206
+R: indicar que se encuentra en el edificio de postgrados Bloque H planta B2
+P: donde se encuentra el aula H301 a la H306
+R: indicar que se encuentra en el edificio de postgrados Bloque H planta B3
+P: donde se encuentra el aula H401 a la H406
+R: indicar que se encuentra en el edificio de postgrados Bloque H planta B4
+P: donde se encuentra el aula G201 a la G206
+R: indicar que se encuentra en el edificio de postgrados Bloque G planta B2
+P: donde se encuentra el aula G301 a la G306
+R: indicar que se encuentra en el edificio de postgrados Bloque G planta B3
+P: donde se encuentra el aula G401 a la G406
+R: indicar que se encuentra en el edificio de postgrados Bloque G planta B4
+P: cuantas veces puedo repetir una misma materia
+R: una materia se puede repetir hasta 3 veces, si no pasas en la tercera ocasión perderás la gratuidad de la carrera en la Universidad  
+P: donde se encuentra el edificio de Posgrado 
+R: se encuentra frente al edificio Central 
+P: donde se encuentra el edificio Central 
+R: se encuentra recto a 450m desde la entrada de la Universidad
+P: donde se encuentra la biblioteca
+R: se encuentra al lado derecho del edificio administrativo 
+P: donde se encuentra el bar
+R: se encuentra recto a 400m desde la entrada de la Universidad
+P: donde se encuentra el edificio administrativo
+R: se encuentra recto a 230m desde la entrada de la Universidad
+P: donde se encuentra el estadio de la Universidad 
+R: se encuentra a mano izquierda a 350m desde la entrada de la Universidad
+P: donde se encuentra el Salón 2000
+R: se encuentra alado del Bar en el segundo piso
+P: donde puedo sacar el carnet estudiantil 
+R: se encuentra en la planta baja del edificio administrativo 
+P: donde puedo pagar una materia o matricula perdida
+R:se puede realizar el pago en línea o acercarse a tesorería que se encuentra en la parte de atrás del edificio administrativo
+P: quien me puede ayudar a realizar el trámite de tercera matricula
+R: el trámite de tercera matricula te puede ayudar el director de carrera 
+P: donde se encuentra el departamento de UTI’C
+R: se encuentra en la planta baja del edificio Central 
+P: donde se encuentra Admisión y Registro
+R: se encuentra en la planta baja del edificio Central
+P: donde puedo solicitar ayuda de un abogado 
+R: se puede solicitar en Admisión y Registro
+P: donde puedo obtener el historial académico 
+R: se puede obtener mediante la página espematico.espe.edu.ec ingresando tus usuario y contraseña proporcionado por la Universidad
+P: donde puedo obtener el récord académico 
+R: se puede obtener mediante la página espematico.espe.edu.ec ingresando tus usuario y contraseña proporcionado por la Universidad
+P: donde puedo obtener el certificado de matricula 
+R: se puede obtener mediante la página espematico.espe.edu.ec ingresando tus usuario y contraseña proporcionado por la Universidad
+P: donde puedo obtener el certificado de impedimentos 
+R: se puede obtener mediante la página espematico.espe.edu.ec ingresando tus usuario y contraseña proporcionado por la Universidad
+P: donde puedo obtener el carnet digital 
+R: se puede obtener mediante la página espematico.espe.edu.ec ingresando tus usuario y contraseña proporcionado por la Universidad
+P: donde se encuentran el centro de Posgrado 
+R:se encuentra en el edificio de Posgrado planta P3 
+P: donde se encuentra el Auditorio del bloque A
+R: se encuentra en el edificio de Central planta P1
+P: donde se encuentra el Auditorio del bloque G
+R: se encuentra en el edificio Posgrado planta B1 
+P: cuantas sedes de la universidad existen
+R: sede Matriz, sede Latacunga, sede Santo Domingo
